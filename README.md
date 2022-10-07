@@ -8,13 +8,7 @@ For the admin dashboard, think what all information would be required for the ad
 
 Create the application using ReactJS/Typescript - NodeJS technologies. Use the database of your choice (SQL / NoSQL).
 
-Host the application on a free hosting service like Netlify, Heroku, etc.
+Implement a password-less login for the application. You can use the service is : `https://auth0.com/passwordless` or any other such free service
 
-## Bonus
-Implement a password-less login for the application. 
+Host the application on a free hosting service like Netlify, Heroku, etc. and submit the deployed URL and the git repository of the code.
 
-One such service is : `https://auth0.com/passwordless`
-
-The documentation can be found here : `https://auth0.com/docs`
-
-Create a account which using a free trial to implement the feature.
