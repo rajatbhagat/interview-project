@@ -10,5 +10,7 @@ Create the application using ReactJS/Typescript - NodeJS technologies. Use the d
 
 Implement a password-less login for the application. You can use the service is : `https://auth0.com/passwordless` or any other such free service
 
-Host the application on a free hosting service like Netlify, Heroku, etc. and submit the deployed URL and the git repository of the code.
+Host the application on a free hosting service like Netlify, Heroku, etc.
+
+Commit the code in a Github reposiroty along with a basic README file showing instructions on how to setup the application on our local systems.
 
